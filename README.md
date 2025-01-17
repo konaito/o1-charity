@@ -1,10 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-_size: 16:9
----
-
 <!-- ページ1：タイトルスライド -->
 
 # 大学生向け「o1モデル」無料提供プラン  
